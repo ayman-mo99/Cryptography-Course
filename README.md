@@ -19,7 +19,13 @@ Encryption - Decryption
 Encryption - Decryption 
 ### Playfair Cipher <br />
 Encryption - Decryption 
-
+### Hill Cipher <br />
+Encryption - Decryption <br />
+Note: we need to add JAR file of JAMA library to use it
+### DataEncryptionStandard <br />
+Encryption - Decryption <br />
+simple GUI using JavaFX <br />
+Note: plainttext,ciphertext, and the key should be hexadecimal and 64-bit
 
 ## Inspiration
 These tutorials and articles helped me:<br />
