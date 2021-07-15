@@ -8,6 +8,19 @@ Implementation of algorithms that I learned through cryptography course in the c
 ## Libraries
 * JAMA : A Java Matrix Package (https://math.nist.gov/javanumerics/jama/)
 
+## Implemented Techniques
+### Caesar Cipher <br />
+Encryption - Decryption - Brute force attack
+### Affine Caesar cipher <br />
+Encryption - Decryption - Brute force attack
+### One-Time Pad Cipher <br />
+Encryption - Decryption 
+### Vigenere Cipher <br />
+Encryption - Decryption 
+### Playfair Cipher <br />
+Encryption - Decryption 
+
+
 ## Inspiration
 These tutorials and articles helped me:<br />
 * https://www.youtube.com/playlist?list=PLd2pEan0ZG_Y1lTa4mXV1y0h-iJjINrqX
