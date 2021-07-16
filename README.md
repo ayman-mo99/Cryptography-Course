@@ -22,10 +22,14 @@ Encryption - Decryption
 ### Hill Cipher <br />
 Encryption - Decryption <br />
 Note: we need to add JAR file of JAMA library to use it
-### DataEncryptionStandard <br />
-Encryption - Decryption <br />
+### Data Encryption Standard <br />
+Encryption - Decryption - Key Generation  <br />
 simple GUI using JavaFX <br />
 Note: plainttext,ciphertext, and the key should be hexadecimal and 64-bit
+### Advanced Encryption Standard
+Encryption - Key Expansion - Decryption(not completed) <br />
+simple GUI using JavaFX and we can read from files and write the result on another file <br />
+Note: plainttext,ciphertext, and the key should be hexadecimal and 128-bit. key expansion is 10 round. In decryption, inverse mix column is the only uncompleted function
 
 ## Inspiration
 These tutorials and articles helped me:<br />
