@@ -25,12 +25,12 @@ Note: we need to add JAR file of JAMA library to use it
 ### Data Encryption Standard (DES) <br />
 Encryption - Decryption - Key Generation  <br />
 simple GUI using JavaFX <br />
-![Screenshot](DES) <br />
+![Screenshot](DES.PNG) <br />
 Note: plainttext,ciphertext, and the key should be hexadecimal and 64-bit
 ### Advanced Encryption Standard (AES)
 Encryption - Key Expansion - Decryption(not completed) <br />
 simple GUI using JavaFX and we can read from files and write the result on another file <br />
-![Screenshot](AES) <br />
+![Screenshot](AES.PNG) <br />
 Note: plainttext,ciphertext, and the key should be hexadecimal and 128-bit. key expansion is 10 round. In decryption, inverse mix column is the only uncompleted function
 
 ## Inspiration
